@@ -1,7 +1,7 @@
 WoMoz Brasil
 ============
 
-Mulheres e Mozilla ("WoMoz") uma comunidade composta por membros de diferentes projetos de código aberto. Nos dedicamos principalmente em melhorar a visibilidade e envolvimento das mulheres no Software Livre/Aberto e na Mozilla, e em aumentar o número de mulheres contribuidoras.
+Women & Mozilla ("WoMoz") uma comunidade composta por membros de diferentes projetos de código aberto. Nos dedicamos principalmente em melhorar a visibilidade e envolvimento das mulheres no Software Livre/Aberto e na Mozilla, e em aumentar o número de mulheres contribuidoras.
 
 Qualquer pessoa pode participar deste projeto, independentemente do sexo, idade, trabalho, etc. Estamos unidos pelo objetivo comum de promover a visibilidade e envolvimento das mulheres nas comunidades de código aberto.
 
